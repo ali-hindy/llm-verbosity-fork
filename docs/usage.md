@@ -947,6 +947,7 @@ OpenAI Chat: o1
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -968,6 +969,7 @@ OpenAI Chat: o1-2024-12-17
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1023,6 +1025,7 @@ OpenAI Chat: o3-mini
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Features:
   - streaming
   - schemas
@@ -1043,6 +1046,7 @@ OpenAI Chat: o3
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1065,6 +1069,7 @@ OpenAI Chat: o4-mini
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1087,6 +1092,7 @@ OpenAI Chat: gpt-5
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1109,6 +1115,7 @@ OpenAI Chat: gpt-5-mini
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1131,6 +1138,7 @@ OpenAI Chat: gpt-5-nano
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1153,6 +1161,7 @@ OpenAI Chat: gpt-5-2025-08-07
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1175,6 +1184,7 @@ OpenAI Chat: gpt-5-mini-2025-08-07
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
@@ -1197,6 +1207,7 @@ OpenAI Chat: gpt-5-nano-2025-08-07
     seed: int
     json_object: boolean
     reasoning_effort: str
+    verbosity: str
   Attachment types:
     application/pdf, image/gif, image/jpeg, image/png, image/webp
   Features:
